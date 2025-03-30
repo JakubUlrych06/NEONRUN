@@ -46,4 +46,4 @@
 ## 4. Odkazy na zdrojové soubory
 - [Repozitář s kódem](https://github.com/JakubUlrych06/NEONRUN-SOURCE)
 - [Hratelný build](https://jaqbgralti.itch.io/neonrun)
-- [Stránka s představením hry]((https://github.com/JakubUlrych06/NEONRUN-SOURCE)) (obsahující screenshoty a popis jednotlivých částí hry)
+- [Stránka s představením hry](https://github.com/JakubUlrych06/NEONRUN-PROPAGACE) (obsahující screenshoty a popis jednotlivých částí hry)

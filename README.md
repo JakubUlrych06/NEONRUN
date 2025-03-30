@@ -1,4 +1,4 @@
-# README: NEONRUN
+# NEONRUN
 
 ## 1. Základní koncepce
 

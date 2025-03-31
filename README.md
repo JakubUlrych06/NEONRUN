@@ -35,7 +35,7 @@
 ## 3. Grafika
 
 ### Použité nástroje
-- **Software**: Unity System, Blender.
+- **Software**: Unity System, Blender. SFXR(ZVUK)
 - **Hardware**: PC.
 
 ### Finální grafické prvky
